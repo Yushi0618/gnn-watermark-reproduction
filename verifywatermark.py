@@ -23,7 +23,7 @@ if __name__ == "__main__":
     dataset = TUDataset(root='data/', name='ENZYMES')
     sample = dataset[0]
 
-    use_model = "M1"  # Change to "M0" to verify M0 baseline
+    use_model = "M1"  
 
     if use_model == "M1":
         model = WatermarkedGNN(GraphSAGE(
