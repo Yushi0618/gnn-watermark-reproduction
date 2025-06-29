@@ -1,0 +1,8 @@
+Training M1 (SNNL) on ENZYMES
+[Epoch 0] Loss: 0.7524
+[Epoch 10] Loss: 0.5137
+[Epoch 20] Loss: 0.4021
+...
+[Epoch 49] Loss: 0.2114
+
+ Watermark verification accuracy (M1): 98.10%
